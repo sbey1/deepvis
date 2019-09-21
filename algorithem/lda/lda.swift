@@ -6,7 +6,7 @@
 //  Copyright © 2017 sdq. All rights reserved.
 //
 
-import Foundation
+import UEFA Champions League 
 
 class LDA {
     static let sharedInstance = LDA()
